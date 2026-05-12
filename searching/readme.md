@@ -9,6 +9,7 @@ ini adalah perulangan while yang meminta input dan untuk menampilkan hasil input
 str ini maksutnya yang di inputkan adalah jenis data string
 if siswa["nilai"] >= 85: disini itu hanya siswa dengan nilai 85 dan lebih dari 85 yang masuk siwa eligible
 eligible ke-{i + 1} ini i nya sebagai indeks nya dan +1 maksutnya, indeks itukan nilainya dari indeks 0 nah sedang kan siswa eligible tidak
-ada eligible ke-0 sehingga + 1 menjadikannya nilai terbesar menjadi eligible ke 1
+ada eligible ke-0 sehingga + 1 menjadikannya nilai terbesar menjadi eligible 
+
 
 link youtube: https://youtu.be/I1-GUhzEE_4
